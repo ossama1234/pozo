@@ -48,7 +48,7 @@
     <div class="col s6"></div>
       <div class="col-md-10">
         <div class="form-group">
-          <form name="add_name" id="add_name">
+          <form name="add_name" id="add_name" method="POST" action="action.php">
          
           
      
